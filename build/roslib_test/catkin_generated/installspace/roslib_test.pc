@@ -1,0 +1,8 @@
+prefix=/home/phobos/roslib_ws/install
+
+Name: roslib_test
+Description: Description of roslib_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

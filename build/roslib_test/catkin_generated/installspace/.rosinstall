@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/phobos/roslib_ws/install/setup.sh

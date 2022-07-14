@@ -1,0 +1,6 @@
+devel_space: /home/phobos/roslib_ws/devel
+install: false
+install_space: /home/phobos/roslib_ws/install
+profile: default
+source_space: /home/phobos/roslib_ws/src
+workspace: /home/phobos/roslib_ws

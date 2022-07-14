@@ -1,0 +1,4 @@
+/home/phobos/roslib_ws/devel/./cmake.lock 4
+/home/phobos/roslib_ws/devel/lib/pkgconfig/roslib_test.pc 1
+/home/phobos/roslib_ws/devel/share/roslib_test/cmake/roslib_testConfig.cmake 1
+/home/phobos/roslib_ws/devel/share/roslib_test/cmake/roslib_testConfig-version.cmake 1

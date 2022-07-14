@@ -1,0 +1,3 @@
+Symlinking /home/phobos/roslib_ws/devel/lib/pkgconfig/roslib_test.pc
+Symlinking /home/phobos/roslib_ws/devel/share/roslib_test/cmake/roslib_testConfig.cmake
+Symlinking /home/phobos/roslib_ws/devel/share/roslib_test/cmake/roslib_testConfig-version.cmake

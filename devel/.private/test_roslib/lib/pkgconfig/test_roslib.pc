@@ -1,0 +1,8 @@
+prefix=/home/phobos/roslib_ws/devel/.private/test_roslib
+
+Name: test_roslib
+Description: Description of test_roslib
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

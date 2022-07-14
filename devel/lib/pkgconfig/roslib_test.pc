@@ -1,0 +1,1 @@
+/home/phobos/roslib_ws/devel/.private/roslib_test/lib/pkgconfig/roslib_test.pc
