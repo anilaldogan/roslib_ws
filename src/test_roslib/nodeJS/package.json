@@ -22,6 +22,7 @@
     "exec": "yarn start"
   },
   "scripts": {
+    "launcher:ws": "roslaunch test_roslib roslib_test.launch",
     "start": "nodemon index.js -L",
     "dev:server": "yarn start"
   }

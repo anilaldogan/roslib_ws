@@ -1,0 +1,1 @@
+/home/phobos/roslib_ws/devel/.private/test_roslib/lib/python2.7/dist-packages/test_roslib/msg/_message1.py

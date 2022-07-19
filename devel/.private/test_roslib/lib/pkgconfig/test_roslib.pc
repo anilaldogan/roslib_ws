@@ -3,6 +3,6 @@ prefix=/home/phobos/roslib_ws/devel/.private/test_roslib
 Name: test_roslib
 Description: Description of test_roslib
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/phobos/roslib_ws/devel/.private/test_roslib/include
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

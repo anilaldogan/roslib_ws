@@ -1,0 +1,1 @@
+/home/phobos/roslib_ws/devel/.private/test_roslib/share/gennodejs/ros/test_roslib/msg/message1.js

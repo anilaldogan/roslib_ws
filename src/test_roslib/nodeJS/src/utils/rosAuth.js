@@ -2,7 +2,7 @@ const sha512 = require("js-sha512");
 
 
 rosAuth = ros => {
-    let secret = process.env.ROS_AUTH_SECRET;
+    let secret = process.env.ROS_AUTH_SECRET ?? "";
     let dest = "robot";
     let rand = "phobosfleet";
     let time = new Date().getTime() / 1000;

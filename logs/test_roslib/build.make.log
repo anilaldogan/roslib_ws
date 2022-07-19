@@ -1,0 +1,25 @@
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _test_roslib_generate_messages_check_deps_message1
+[  0%] Built target _test_roslib_generate_messages_check_deps_Service1
+[ 23%] [34m[1mGenerating Python from MSG test_roslib/message1[0m
+[ 23%] [34m[1mGenerating Javascript code from test_roslib/message1.msg[0m
+[ 23%] [34m[1mGenerating Lisp code from test_roslib/message1.msg[0m
+[ 30%] [34m[1mGenerating C++ code from test_roslib/message1.msg[0m
+[ 38%] [34m[1mGenerating EusLisp code from test_roslib/message1.msg[0m
+[ 46%] Built target test_roslib_generate_messages_nodejs
+[ 53%] Built target test_roslib_generate_messages_lisp
+[ 69%] Built target test_roslib_generate_messages_eus
+[ 76%] Built target test_roslib_generate_messages_cpp
+[ 92%] [34m[1mGenerating Python msg __init__.py for test_roslib[0m
+[ 92%] [34m[1mGenerating Python srv __init__.py for test_roslib[0m
+[100%] Built target test_roslib_generate_messages_py
+[100%] Built target test_roslib_generate_messages

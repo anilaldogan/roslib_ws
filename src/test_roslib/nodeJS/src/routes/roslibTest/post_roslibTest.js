@@ -10,7 +10,7 @@ router.post("/", async (req, res) => {
 
     let ros = new ROSLIB.Ros({ url: "ws://localhost:9090" });
 
-    rosAuth(ros);
+    //rosAuth(ros);
 
     ros.on("connection", function () {
         console.log(`[${process.pid}] Connected to websocket server.`);

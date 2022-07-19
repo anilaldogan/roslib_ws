@@ -1,0 +1,1 @@
+/home/phobos/roslib_ws/devel/.private/test_roslib/share/roseus/ros/test_roslib/msg/message1.l
